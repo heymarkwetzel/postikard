@@ -1,9 +1,6 @@
 title: Site Navigation
 primary-nav:
 
-- title: Projects
-  url: /#projects
-
 - title: About
   url: /about/
 
