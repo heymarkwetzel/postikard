@@ -1,11 +1,9 @@
-# heymarkwetzel.com
+# postikard.com
 
 Site Structure
 ------
-- Home (Projects)
-    - Project Details
+- Home
 - About
-  - Resume
 - Contact
 
 Run locally
