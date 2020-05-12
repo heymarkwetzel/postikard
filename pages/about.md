@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: About Postikard
 permalink: /about/
 ---
 
-Placeholder for Postikard.
+We'll write this soon.
 
 In the meantime, check us out on [Instagram](https://www.instagram.com/postikard) or send some snail mail to someone you know!
 

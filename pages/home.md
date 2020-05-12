@@ -8,15 +8,18 @@ nav: light
 <section class="home-hero">
   <div class="pw-container">
     <div class="home-hero-content">
-      <p>Send digital postcards to anyone from anywhere with <span class="green-text">Postikard</span></p>
-      <a class="btn-lrg btn-lrg-dark" href="{{ "/contact/" | relative_url }}">Contact us</a>
+      <p>Send digital postcards to anyone from anywhere!</p>
+      <p></p>
+      <p></p>
+      <span class="green-text">Coming soon!</span>
+      <!-- <a class="btn-lrg btn-lrg-dark" href="{{ "/contact/" | relative_url }}">Contact us</a>-->
     </div>
   </div>
 </section>
 
 <section class="home-projects">
   <div class="pw-container">
-    <h3><a name="projects"></a>Projects</h3>
+    <h3><a name="projects"></a>Postikards</h3>
     <div class="home-projects-list">
       {% for item in site.data.projects.list %}
       <div class="home-project">
