@@ -1,6 +1,15 @@
 list:
 
-  - title: Greetings from Antarctica
+  - #title: Greetings from Chicago
+    #description: Chicago
+    thumbnail: /assets/images/project-thumbnails/chicago.jpg
+    #url: /none/
+
+  - #title: Greetings from Antarctica
     #description: Antarctica
     thumbnail: /assets/images/project-thumbnails/antarctica.jpg
     #url: /none/
+
+  - #title:
+    #description:
+    thumbnail: /assets/images/project-thumbnails/utah.jpg
