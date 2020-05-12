@@ -1,0 +1,77 @@
+.project .page-content{
+    margin: 48px auto 112px auto;
+    overflow: visible;
+}
+
+.project-title {
+  width: 100%;
+  height: 576px;
+  @include bp-max-width($medium) {
+    height: auto;
+  }
+  div {
+    padding-top: 192px;
+    @include bp-max-width($medium) {
+      padding-top: 128px;
+      padding-bottom: 72px;}
+  }
+  h1 {
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 62px;
+    color: $color-white;
+    margin-bottom: 24px;
+    @include bp-max-width($medium) {
+      font-size: 36px;
+      line-height: 42px;}
+  }
+  p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: $color-white;
+    @include bp-max-width($medium) {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    }
+}
+
+//Project Specific Styles
+.feature-youravon {
+    background-color: #ED008C;
+    background-image: url("/assets/images/project-bg/project-bg-youravon.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.feature-unitedairlines {
+    background-color: #2C5394;
+}
+.feature-vbyc {
+    background-color: #37BC98;
+    background-image: url("/assets/images/project-bg/project-bg-gamestar-mechanic1.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.feature-postikard {
+    background-color: #D3592D;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.feature-hahahotdogs {
+    background-color: #FFDB58;
+    background-image: url("/assets/images/project-bg/project-bg-hahahotdogs.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.feature-consulting {
+    background-color: #3DAEC9;
+    background-image: url("/assets/images/project-bg/project-bg-consulting1.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
