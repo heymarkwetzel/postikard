@@ -11,7 +11,7 @@ nav: light
       <p>Send digital postcards to anyone from anywhere!</p>
       <p></p>
       <p></p>
-      <span class="green-text">Coming soon!</span>
+      <span class="white-text">Coming soon!</span>
       <!-- <a class="btn-lrg btn-lrg-dark" href="{{ "/contact/" | relative_url }}">Contact us</a>-->
     </div>
   </div>

@@ -1,6 +1,6 @@
 list:
 
-  - title: Greetings from
-    description: Antarctica
+  - title: Greetings from Antarctica
+    #description: Antarctica
     thumbnail: /assets/images/project-thumbnails/antarctica.png
-    url: /none/
+    #url: /none/
