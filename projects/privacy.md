@@ -2,7 +2,7 @@
 layout: project
 title: Privacy policy
 permalink: /privacy/
-feature_class: feature-consulting
+feature_class: feature-privacy
 nav: light
 description: We take your privacy seriously.
 

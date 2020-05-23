@@ -1,6 +1,9 @@
 title: Site Navigation
 primary-nav:
 
+##  - title: How to
+##  url: /howto/
+
 - title: About
   url: /about/
 
