@@ -8,8 +8,9 @@ list:
   - #title: Greetings from Antarctica
     #description: Antarctica
     thumbnail: /assets/images/project-thumbnails/antarctica.jpg
-    #url: /none/
+    url: /assets/images/project-thumbnails/antarctica.jpg
 
   - #title: Greetings from Utah
     #description: Utah
     thumbnail: /assets/images/project-thumbnails/utah.jpg
+    url: /assets/images/project-thumbnails/utah.jpg
