@@ -1,6 +1,6 @@
 list:
 
-  - title: Greetings from Chicago
+  - #title: Greetings from Chicago
     #description: Chicago
     thumbnail: /assets/images/project-thumbnails/chicago.jpg
     url: /assets/images/project-thumbnails/chicago.jpg
