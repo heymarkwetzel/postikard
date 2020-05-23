@@ -23,7 +23,7 @@ nav: light
     <div class="home-projects-list">
       {% for item in site.data.projects.list %}
       <div class="home-project">
-        <a href="{{ item.url }}" alt="{{ item.title }}">
+        <a href="{{ item.thumbnail }}" alt="{{ item.title }}" data.lightbox="home">
           <img class="home-project-thumbnail" src="{{ item.thumbnail }}" />
           <h4 class="home-project-title">{{ item.title }}</h4>
           <p class="home-project-description">{{ item.description }}</p>
