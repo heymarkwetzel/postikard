@@ -28,6 +28,7 @@ nav: light
           <h4 class="home-project-title">{{ item.title }}</h4>
           <p class="home-project-description">{{ item.description }}</p>
         </a>
+        <a href=""/assets/images/project-thumbnails/chicago.jpg" data-lightbox="image-1" data-title="My caption">test</a>
       </div>
       {% endfor %}
     </div>
