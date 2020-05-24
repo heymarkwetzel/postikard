@@ -32,7 +32,7 @@ nav: light
       {% endfor %}
     </div>
   </div>
-  <a href="/assets/images/project-thumbnails/chicago.jpg" data-lightbox="image-1">test</a>
+  <a href="/assets/images/project-thumbnails/chicago.jpg" data-lightbox="image-1"><img class="home-project-title" src="/assets/images/project-thumbnails/chicago.jpg" /></a>
   <a href="/assets/images/project-thumbnails/utah.jpg" data-lightbox="image-1">test</a>
   <a href="/assets/images/project-thumbnails/antarctica.jpg" data-lightbox="image-1">test</a>
 </section>
