@@ -15,7 +15,7 @@ body {
 .page-content a {
   color: $color-gray-dark;
   text-decoration: none;
-  background-image: linear-gradient($color-green, $color-green);
+  background-image: linear-gradient($color-postikard, $color-postikard);
   background-position: 0% 100%;
   background-repeat: no-repeat;
   background-size: 100% 3px;
@@ -101,7 +101,7 @@ body {
 
 // Inline text styles
 .green-text {
-  color: $color-green;
+  color: $color-postikard;
 }
 
 .white-text {
