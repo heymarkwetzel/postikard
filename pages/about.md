@@ -10,11 +10,11 @@ Send digital postcards to anyone from anywhere!
 
 ## How does it work?
 All you need to do is take a picture, customize the front of your Postikard, write a short note, and send it off digitally to whoever is on your mind. We made this simple for a reason. While sharing your memories is special, we love being present to enjoy the moments as they happen.
-# Snap a photo from where you are (or choose from your camera roll)!
-# Add in your location and customize your text!
-# Write a message to one of your favorite people!
-# Share your customized Postikard via iMessage, email, or social media!
-# Make someone smile!
+* Snap a photo from where you are (or choose from your camera roll)!
+* Add in your location and customize your text!
+* Write a message to one of your favorite people!
+* Share your customized Postikard via iMessage, email, or social media!
+* Make someone smile!
 
 ## Why does it exist?
 We believe that all adventures contain stories worth sharing; whether you’re visiting a restaurant near your home or traveling to an island thousands of miles away. And we believe in connecting with others in a personal, customized way. Sure, you can post on social media but nothing beats getting a beautiful photo and a note from someone made just for you!
