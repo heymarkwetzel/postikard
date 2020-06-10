@@ -10,7 +10,6 @@ Send digital postcards to anyone from anywhere!
 
 ## How does it work?
 All you need to do is take a picture, customize the front of your Postikard, write a short note, and send it off digitally to whoever is on your mind. We made this simple for a reason. While sharing your memories is special, we love being present to enjoy the moments as they happen.
-
   1. Snap a photo from where you are (or choose from your camera roll)!
   2. Add in your location and customize your text!
   3. Write a message to one of your favorite people!
