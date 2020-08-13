@@ -4,6 +4,8 @@ title: About Postikard
 permalink: /about/
 ---
 
+![Mark and Jasna in a Postikard](/assets/images/about/postikard-manual-2.png){:class="img-large"}
+
 ## What is Postikard?
 Postikard is a unique way to make someone feel special with a personal message and a custom digital postcard. We believe personal connections are important, so we prioritized sending to one person at a time - just like real mail!
 Send digital postcards to anyone from anywhere!
