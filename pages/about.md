@@ -27,4 +27,4 @@ We are two friends, Mark & Jasna, joined by our love of travel, connection and p
 
 Check us out on [Instagram](https://www.instagram.com/postikard_app) or send some snail mail to someone you know!
 
-![Mark and Jasna in a Postikard](/assets/images/about/postikard-manual-2.png){:class="img-large"}
+![Mark and Jasna in a Postikard](/assets/images/about/postikard-manual-2.png){:class="img-large"} 
