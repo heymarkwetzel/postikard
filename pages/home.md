@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Postikard | Hello
+title: Haha Hot Dogs | Hello
 permalink: /
 nav: light
 ---
